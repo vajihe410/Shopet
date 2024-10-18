@@ -1,0 +1,23 @@
+.topHeader{
+    background-color: var(--primaryColor);
+    height: 68px;
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+}
+.topHeader p{
+    text-align: center;
+    color: #fff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 34px;
+}
+.topHeader span{
+    display: inline-block;
+    background-color: #fff;
+    color: var(--primaryColor);
+    border-radius: 32px;
+    width: 95px;
+    height: 34px;
+    margin-left: 6px;
+}
